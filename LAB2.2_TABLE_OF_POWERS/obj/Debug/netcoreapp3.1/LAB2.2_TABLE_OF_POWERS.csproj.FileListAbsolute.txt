@@ -1,0 +1,25 @@
+C:\Dev\DevBuild_Lab_Exercises\LAB2.2_TABLE_OF_POWERS\bin\Debug\netcoreapp3.1\LAB2.2_TABLE_OF_POWERS.exe
+C:\Dev\DevBuild_Lab_Exercises\LAB2.2_TABLE_OF_POWERS\bin\Debug\netcoreapp3.1\LAB2.2_TABLE_OF_POWERS.deps.json
+C:\Dev\DevBuild_Lab_Exercises\LAB2.2_TABLE_OF_POWERS\bin\Debug\netcoreapp3.1\LAB2.2_TABLE_OF_POWERS.runtimeconfig.json
+C:\Dev\DevBuild_Lab_Exercises\LAB2.2_TABLE_OF_POWERS\bin\Debug\netcoreapp3.1\LAB2.2_TABLE_OF_POWERS.runtimeconfig.dev.json
+C:\Dev\DevBuild_Lab_Exercises\LAB2.2_TABLE_OF_POWERS\bin\Debug\netcoreapp3.1\LAB2.2_TABLE_OF_POWERS.dll
+C:\Dev\DevBuild_Lab_Exercises\LAB2.2_TABLE_OF_POWERS\bin\Debug\netcoreapp3.1\LAB2.2_TABLE_OF_POWERS.pdb
+C:\Dev\DevBuild_Lab_Exercises\LAB2.2_TABLE_OF_POWERS\obj\Debug\netcoreapp3.1\LAB2.2_TABLE_OF_POWERS.csprojAssemblyReference.cache
+C:\Dev\DevBuild_Lab_Exercises\LAB2.2_TABLE_OF_POWERS\obj\Debug\netcoreapp3.1\LAB2.2_TABLE_OF_POWERS.AssemblyInfoInputs.cache
+C:\Dev\DevBuild_Lab_Exercises\LAB2.2_TABLE_OF_POWERS\obj\Debug\netcoreapp3.1\LAB2.2_TABLE_OF_POWERS.AssemblyInfo.cs
+C:\Dev\DevBuild_Lab_Exercises\LAB2.2_TABLE_OF_POWERS\obj\Debug\netcoreapp3.1\LAB2.2_TABLE_OF_POWERS.csproj.CoreCompileInputs.cache
+C:\Dev\DevBuild_Lab_Exercises\LAB2.2_TABLE_OF_POWERS\obj\Debug\netcoreapp3.1\LAB2.2_TABLE_OF_POWERS.dll
+C:\Dev\DevBuild_Lab_Exercises\LAB2.2_TABLE_OF_POWERS\obj\Debug\netcoreapp3.1\LAB2.2_TABLE_OF_POWERS.pdb
+C:\Dev\DevBuild_Lab_Exercises\LAB2.2_TABLE_OF_POWERS\obj\Debug\netcoreapp3.1\LAB2.2_TABLE_OF_POWERS.genruntimeconfig.cache
+C:\New Grand Circus\Grand_Circus\LAB2.2_TABLE_OF_POWERS\bin\Debug\netcoreapp3.1\LAB2.2_TABLE_OF_POWERS.exe
+C:\New Grand Circus\Grand_Circus\LAB2.2_TABLE_OF_POWERS\bin\Debug\netcoreapp3.1\LAB2.2_TABLE_OF_POWERS.deps.json
+C:\New Grand Circus\Grand_Circus\LAB2.2_TABLE_OF_POWERS\bin\Debug\netcoreapp3.1\LAB2.2_TABLE_OF_POWERS.runtimeconfig.json
+C:\New Grand Circus\Grand_Circus\LAB2.2_TABLE_OF_POWERS\bin\Debug\netcoreapp3.1\LAB2.2_TABLE_OF_POWERS.runtimeconfig.dev.json
+C:\New Grand Circus\Grand_Circus\LAB2.2_TABLE_OF_POWERS\bin\Debug\netcoreapp3.1\LAB2.2_TABLE_OF_POWERS.dll
+C:\New Grand Circus\Grand_Circus\LAB2.2_TABLE_OF_POWERS\bin\Debug\netcoreapp3.1\LAB2.2_TABLE_OF_POWERS.pdb
+C:\New Grand Circus\Grand_Circus\LAB2.2_TABLE_OF_POWERS\obj\Debug\netcoreapp3.1\LAB2.2_TABLE_OF_POWERS.AssemblyInfoInputs.cache
+C:\New Grand Circus\Grand_Circus\LAB2.2_TABLE_OF_POWERS\obj\Debug\netcoreapp3.1\LAB2.2_TABLE_OF_POWERS.AssemblyInfo.cs
+C:\New Grand Circus\Grand_Circus\LAB2.2_TABLE_OF_POWERS\obj\Debug\netcoreapp3.1\LAB2.2_TABLE_OF_POWERS.csproj.CoreCompileInputs.cache
+C:\New Grand Circus\Grand_Circus\LAB2.2_TABLE_OF_POWERS\obj\Debug\netcoreapp3.1\LAB2.2_TABLE_OF_POWERS.dll
+C:\New Grand Circus\Grand_Circus\LAB2.2_TABLE_OF_POWERS\obj\Debug\netcoreapp3.1\LAB2.2_TABLE_OF_POWERS.pdb
+C:\New Grand Circus\Grand_Circus\LAB2.2_TABLE_OF_POWERS\obj\Debug\netcoreapp3.1\LAB2.2_TABLE_OF_POWERS.genruntimeconfig.cache

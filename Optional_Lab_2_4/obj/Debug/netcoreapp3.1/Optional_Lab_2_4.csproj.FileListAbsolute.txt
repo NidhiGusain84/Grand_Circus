@@ -1,0 +1,25 @@
+C:\Dev\DevBuild_Lab_Exercises\Optional_Lab_2_4\bin\Debug\netcoreapp3.1\Optional_Lab_2_4.exe
+C:\Dev\DevBuild_Lab_Exercises\Optional_Lab_2_4\bin\Debug\netcoreapp3.1\Optional_Lab_2_4.deps.json
+C:\Dev\DevBuild_Lab_Exercises\Optional_Lab_2_4\bin\Debug\netcoreapp3.1\Optional_Lab_2_4.runtimeconfig.json
+C:\Dev\DevBuild_Lab_Exercises\Optional_Lab_2_4\bin\Debug\netcoreapp3.1\Optional_Lab_2_4.runtimeconfig.dev.json
+C:\Dev\DevBuild_Lab_Exercises\Optional_Lab_2_4\bin\Debug\netcoreapp3.1\Optional_Lab_2_4.dll
+C:\Dev\DevBuild_Lab_Exercises\Optional_Lab_2_4\bin\Debug\netcoreapp3.1\Optional_Lab_2_4.pdb
+C:\Dev\DevBuild_Lab_Exercises\Optional_Lab_2_4\obj\Debug\netcoreapp3.1\Optional_Lab_2_4.AssemblyInfoInputs.cache
+C:\Dev\DevBuild_Lab_Exercises\Optional_Lab_2_4\obj\Debug\netcoreapp3.1\Optional_Lab_2_4.AssemblyInfo.cs
+C:\Dev\DevBuild_Lab_Exercises\Optional_Lab_2_4\obj\Debug\netcoreapp3.1\Optional_Lab_2_4.csproj.CoreCompileInputs.cache
+C:\Dev\DevBuild_Lab_Exercises\Optional_Lab_2_4\obj\Debug\netcoreapp3.1\Optional_Lab_2_4.dll
+C:\Dev\DevBuild_Lab_Exercises\Optional_Lab_2_4\obj\Debug\netcoreapp3.1\Optional_Lab_2_4.pdb
+C:\Dev\DevBuild_Lab_Exercises\Optional_Lab_2_4\obj\Debug\netcoreapp3.1\Optional_Lab_2_4.genruntimeconfig.cache
+C:\New Grand Circus\Grand_Circus\Optional_Lab_2_4\bin\Debug\netcoreapp3.1\Optional_Lab_2_4.exe
+C:\New Grand Circus\Grand_Circus\Optional_Lab_2_4\bin\Debug\netcoreapp3.1\Optional_Lab_2_4.deps.json
+C:\New Grand Circus\Grand_Circus\Optional_Lab_2_4\bin\Debug\netcoreapp3.1\Optional_Lab_2_4.runtimeconfig.json
+C:\New Grand Circus\Grand_Circus\Optional_Lab_2_4\bin\Debug\netcoreapp3.1\Optional_Lab_2_4.runtimeconfig.dev.json
+C:\New Grand Circus\Grand_Circus\Optional_Lab_2_4\bin\Debug\netcoreapp3.1\Optional_Lab_2_4.dll
+C:\New Grand Circus\Grand_Circus\Optional_Lab_2_4\bin\Debug\netcoreapp3.1\Optional_Lab_2_4.pdb
+C:\New Grand Circus\Grand_Circus\Optional_Lab_2_4\obj\Debug\netcoreapp3.1\Optional_Lab_2_4.AssemblyInfoInputs.cache
+C:\New Grand Circus\Grand_Circus\Optional_Lab_2_4\obj\Debug\netcoreapp3.1\Optional_Lab_2_4.AssemblyInfo.cs
+C:\New Grand Circus\Grand_Circus\Optional_Lab_2_4\obj\Debug\netcoreapp3.1\Optional_Lab_2_4.csproj.CoreCompileInputs.cache
+C:\New Grand Circus\Grand_Circus\Optional_Lab_2_4\obj\Debug\netcoreapp3.1\Optional_Lab_2_4.dll
+C:\New Grand Circus\Grand_Circus\Optional_Lab_2_4\obj\Debug\netcoreapp3.1\Optional_Lab_2_4.pdb
+C:\New Grand Circus\Grand_Circus\Optional_Lab_2_4\obj\Debug\netcoreapp3.1\Optional_Lab_2_4.genruntimeconfig.cache
+C:\New Grand Circus\Grand_Circus\Optional_Lab_2_4\obj\Debug\netcoreapp3.1\Optional_Lab_2_4.csprojAssemblyReference.cache

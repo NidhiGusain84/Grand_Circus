@@ -1,0 +1,13 @@
+C:\Dev\DevBuild_Lab_Exercises\DevBuild_Lab_Exercises\bin\Debug\netcoreapp3.1\DevBuild_Lab_Exercises.exe
+C:\Dev\DevBuild_Lab_Exercises\DevBuild_Lab_Exercises\bin\Debug\netcoreapp3.1\DevBuild_Lab_Exercises.deps.json
+C:\Dev\DevBuild_Lab_Exercises\DevBuild_Lab_Exercises\bin\Debug\netcoreapp3.1\DevBuild_Lab_Exercises.runtimeconfig.json
+C:\Dev\DevBuild_Lab_Exercises\DevBuild_Lab_Exercises\bin\Debug\netcoreapp3.1\DevBuild_Lab_Exercises.runtimeconfig.dev.json
+C:\Dev\DevBuild_Lab_Exercises\DevBuild_Lab_Exercises\bin\Debug\netcoreapp3.1\DevBuild_Lab_Exercises.dll
+C:\Dev\DevBuild_Lab_Exercises\DevBuild_Lab_Exercises\bin\Debug\netcoreapp3.1\DevBuild_Lab_Exercises.pdb
+C:\Dev\DevBuild_Lab_Exercises\DevBuild_Lab_Exercises\obj\Debug\netcoreapp3.1\DevBuild_Lab_Exercises.AssemblyInfoInputs.cache
+C:\Dev\DevBuild_Lab_Exercises\DevBuild_Lab_Exercises\obj\Debug\netcoreapp3.1\DevBuild_Lab_Exercises.AssemblyInfo.cs
+C:\Dev\DevBuild_Lab_Exercises\DevBuild_Lab_Exercises\obj\Debug\netcoreapp3.1\DevBuild_Lab_Exercises.csproj.CoreCompileInputs.cache
+C:\Dev\DevBuild_Lab_Exercises\DevBuild_Lab_Exercises\obj\Debug\netcoreapp3.1\DevBuild_Lab_Exercises.dll
+C:\Dev\DevBuild_Lab_Exercises\DevBuild_Lab_Exercises\obj\Debug\netcoreapp3.1\DevBuild_Lab_Exercises.pdb
+C:\Dev\DevBuild_Lab_Exercises\DevBuild_Lab_Exercises\obj\Debug\netcoreapp3.1\DevBuild_Lab_Exercises.genruntimeconfig.cache
+C:\Dev\DevBuild_Lab_Exercises\DevBuild_Lab_Exercises\obj\Debug\netcoreapp3.1\DevBuild_Lab_Exercises.csprojAssemblyReference.cache
